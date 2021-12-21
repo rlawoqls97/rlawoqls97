@@ -1,16 +1,21 @@
-### Hi there 👋
+<p>
+  👋&nbsp; Hi there! I'm <b>mobile app developer</b> using Flutter. ✨<br/>
+  Try hard to develop Python. ✨ <br/><br/>
+</p>
 
-<!--
-**rlawoqls97/rlawoqls97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💪 Skills
+#### Platforms & Languages
+<p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Python-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> 
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tools
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+</p>
