@@ -1,5 +1,5 @@
 <p>
-  👋&nbsp; Hi there! I'm <b>mobile app developer</b> using Flutter & . ✨<br/>
+  👋&nbsp; Hi there! I'm <b>mobile app developer</b> using Flutter & Kotlin. ✨<br/>
   
   👋&nbsp; I work hard to improve my <b>Python<b> skills ✨ <br/><br/>
 </p>
